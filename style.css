@@ -1,0 +1,21 @@
+
+.a1{
+    margin-left: 550px;
+    margin-top: 10px;
+    width: 750px;
+    height: 900px;
+    background-color: #808080;
+    position:absolute;
+}
+
+.a2 {
+    position: relative;
+    background-color: black;
+    color: azure;
+    width: 350px;
+    height: 350px;
+    margin-left: 290px;
+    top:  65px;
+
+
+}
